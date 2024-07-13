@@ -133,7 +133,7 @@ const element = {
 ```
 이러한 객체를 “React 엘리먼트”라고 하며, 화면에서 보고 싶은 것을 나타내는 표현이라 생각하면 됩니다. React는 이 객체를 읽어서, DOM을 구성하고 최신 상태로 유지하는 데 사용합니다.
 
-다음 섹션에서는 DOM에 React 엘리먼트를 렌더링하는 방법에 대해 살펴보겠습니다.
+[다음 섹션에](https://github.com/806gw/React-document/blob/main/%EC%A3%BC%EC%9A%94%20%EA%B0%9C%EB%85%90/%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%20%EB%A0%8C%EB%8D%94%EB%A7%81.md)서는 DOM에 React 엘리먼트를 렌더링하는 방법에 대해 살펴보겠습니다.
 
 > [!tip]
 > ES6 및 JSX 코드가 올바르게 표시되도록 편집기에 “Babel” 언어 설정을 사용하는 것을 권장합니다.
