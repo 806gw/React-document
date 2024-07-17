@@ -10,6 +10,19 @@
 function Welcome(props) {
   return <h1>Hello, {props.name}</h1>;
 }
+```
 
-이 함수는 데이터를 가진 하나의 "props" (props는 속성을 나타내는 데이터입니다) 객체 인자를 받은 후 React 엘리먼트를 반환하므로 유호한 React 컴포넌트입니다. 이러한 컴포넌트는 JavaScript 함수이기 때문에 말 그대로 "함수 컴포넌트"라고 호칭합니다.
+이 함수는 데이터를 가진 하나의 “props” (props는 속성을 나타내는 데이터입니다) 객체 인자를 받은 후 React 엘리먼트를 반환하므로 유효한 React 컴포넌트입니다. 이러한 컴포넌트는 JavaScript 함수이기 때문에 말 그대로 “함수 컴포넌트”라고 호칭합니다.
 
+또한 ES6 class를 사용하여 컴포넌트를 정의할 수 있습니다.
+```javascript
+class Welcome extends React.Component {
+  render() {
+    return <h1>Hello, {this.props.name}</h1>;
+  }
+}
+```
+
+React의 관점에서 볼 때 위 두 가지 유형의 컴포넌트는 동일합니다.
+
+class는 몇 가지 추가 기능이 있으며 이에 대해서는 [다음 장]()에서 설명합니다. 그때까지는 간결성을 위해 함수 컴포넌트를 사용하겠습니다. 함수 컴포넌트와 클래스 컴포넌트 둘 다 몇 가지 추가 기능이 있으며 이에 대해서는 [다음 장]()에서 설명합니다.
