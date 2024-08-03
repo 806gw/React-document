@@ -1,6 +1,11 @@
-<img src="https://github.com/user-attachments/assets/14481c80-dc3e-4230-833d-b80e03aeab77" width="200px"/>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/19a7ebfc-c8a6-4dff-860c-251579273189" align="center" width="150px"/>
+
+<p>$\bf{\large{\color{#60DAFB}React}}$</p>
+<small>사용자 인터페이스를 만들기 위한 JavaScript 라이브러리</small>
+</div>
+<hr />
 
 > [!note]
-> 리액트에 대한 새로운 지식과 복습을 위한 리액트 공식문서 회고록입니다.   
-> 리액트 공식문서 바탕으로 작성하였습니다.   
-> 공식문서 코드를 보고 싶으시다면 [여기](https://github.com/806gw/React-code)에 있습니다.
+> 공식문서 예시로 나온 코드를 보고 싶으시다면 [여기](https://github.com/806gw/React-code)를 참고해주세요.
+
