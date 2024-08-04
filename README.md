@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/19a7ebfc-c8a6-4dff-860c-251579273189" align="center" width="150px"/>
-React
+<big><strong>React</strong></big></br>
 <!--<p>$\bf{\large{\color{#60DAFB}React}}$</p>-->
 <small>사용자 인터페이스를 만들기 위한 JavaScript 라이브러리</small>
 </div>
